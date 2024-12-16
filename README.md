@@ -108,16 +108,4 @@ Final Intensity for Tungsten: 0.31
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributions
-Contributions are welcome! Feel free to submit a pull request or open an issue for bug reports or feature requests.
-
----
-
-## Author
-Developed by [Your Name].
 
